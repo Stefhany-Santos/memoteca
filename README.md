@@ -9,16 +9,16 @@ Além de ser uma aplicação prática, o MemoTeca possui um layout moderno, resp
 ## 🚀 Tecnologias e conceitos aplicados
 Durante o desenvolvimento do MemoTeca, foram aplicados diversos conceitos e recursos importantes do Angular, incluindo:
 
-- ✔️ Angular CLI – Criação e gerenciamento do projeto
+- ✔️ **Angular CLI:** Criação e gerenciamento do projeto
 
-- 🧩 Componentes Reutilizáveis – Cartões, formulário, mural de pensamentos
+- 🧩 **Componentes Reutilizáveis:** Cartões, formulário, mural de pensamentos
 
-- 🔁 Diretivas estruturais – Uso do *ngFor e *ngIf para renderização condicional
+- 🔁 **Diretivas estruturais:** Uso do *ngFor e *ngIf para renderização condicional
 
-- 🌐 Rotas – Navegação entre telas com RouterModule
+- 🌐 **Rotas:** Navegação entre telas com RouterModule
 
-- 🔄 Data Binding – Comunicação entre componente e template
+- 🔄 **Data Binding:** Comunicação entre componente e template
 
-- 🛠️ Serviços e Injeção de Dependência – Para compartilhamento de dados e regras de negócio
+- 🛠️ **Serviços e Injeção de Dependência:** Para compartilhamento de dados e regras de negócio
 
-- 🌐 Requisições HTTP – Utilização do HttpClient para integração com APIs (GET, POST, PUT, DELETE)
+- 🌐 **Requisições HTTP:** Utilização do HttpClient para integração com APIs (GET, POST, PUT, DELETE)

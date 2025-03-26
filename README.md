@@ -1,59 +1,24 @@
-# Memoteca
+# 📚 MemoTeca – Seu mural de pensamentos
+O MemoTeca é um mural digital para guardar pensamentos, trechos de músicas, citações de livros ou qualquer frase marcante que você queira salvar para inspirar seus dias — ou até usar como legenda nas suas selfies. ✨
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.7.
+## 🧠 Sobre o projeto
+Este projeto foi desenvolvido durante o curso de Angular da plataforma Alura, com o objetivo de aplicar e consolidar os conhecimentos fundamentais sobre o framework. A aplicação possui as funcionalidades completas de um CRUD (Create, Read, Update, Delete), permitindo listar, cadastrar, editar e excluir pensamentos.
 
-## Development server
+Além de ser uma aplicação prática, o MemoTeca possui um layout moderno, responsivo e elegante, desenvolvido no Figma especialmente para esse projeto.
 
-To start a local development server, run:
+### 🚀 Tecnologias e conceitos aplicados
+Durante o desenvolvimento do MemoTeca, foram aplicados diversos conceitos e recursos importantes do Angular, incluindo:
 
-```bash
-ng serve
-```
+- ✔️ Angular CLI – Criação e gerenciamento do projeto
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+- 🧩 Componentes Reutilizáveis – Cartões, formulário, mural de pensamentos
 
-## Code scaffolding
+- 🔁 Diretivas estruturais – Uso do *ngFor e *ngIf para renderização condicional
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- 🌐 Rotas – Navegação entre telas com RouterModule
 
-```bash
-ng generate component component-name
-```
+- 🔄 Data Binding – Comunicação entre componente e template
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+- 🛠️ Serviços e Injeção de Dependência – Para compartilhamento de dados e regras de negócio
 
-```bash
-ng generate --help
-```
-
-## Building
-
-To build the project run:
-
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+- 🌐 Requisições HTTP – Utilização do HttpClient para integração com APIs (GET, POST, PUT, DELETE)
